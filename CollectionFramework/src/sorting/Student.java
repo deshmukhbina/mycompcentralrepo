@@ -1,6 +1,6 @@
 package sorting;
 
-public class Student {
+public class Student           {
 	private String  studname;
     private int studid;
     private int age;

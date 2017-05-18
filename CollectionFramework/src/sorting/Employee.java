@@ -9,7 +9,7 @@ public class Employee implements Comparable<Employee>{
     private long salary;
     
 	
-	public Employee()   {
+	public Employee()                   {
 		super();
 		
 	}

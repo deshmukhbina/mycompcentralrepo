@@ -11,7 +11,7 @@ public class Employee implements Comparable<Employee>{
 	
 	public Employee()   {
 		super();
-		// TODO Auto-generated constructor stub
+		
 	}
 	public Employee(String empName, int empId, int age, long salary) {
 		this.empName=empName;
